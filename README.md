@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu GitHub
 
-Sou desenvolvedor Android/FullStack atualmente trabalhando com **Jetpack Compose** e construindo interfaces modernas, dinâmicas e responsivas.
+Sou desenvolvedor Android/FullStack e atualmente bolsista em um projeto com em que trabalho com **Jetpack Compose** para Android nativo.
 
 Tenho conhecimentos em diversas linguagens e tecnologias, que aplico em meus projetos pessoais e profissionais.
 
@@ -50,9 +50,11 @@ Tenho conhecimentos em diversas linguagens e tecnologias, que aplico em meus pro
   <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://lattes.cnpq.br/5443913411357259" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-004080?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes"/>
+  </a>
 </p>
-
-
 
 ---
 
