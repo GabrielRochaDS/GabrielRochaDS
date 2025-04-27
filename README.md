@@ -38,7 +38,7 @@ Tenho conhecimentos em diversas linguagens e tecnologias, que aplico em meus pro
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRochaDS&layout=compact&theme=dracula" alt="Top Languages" />
