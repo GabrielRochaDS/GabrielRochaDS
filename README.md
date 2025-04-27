@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá! Seja bem-vindo(a) ao meu GitHub
 
-<!--
-**GabrielRochaDS/GabrielRochaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Android/FullStack atualmente trabalhando com **Jetpack Compose** e construindo interfaces modernas, dinâmicas e responsivas.
 
-Here are some ideas to get you started:
+Tenho conhecimentos em diversas linguagens e tecnologias, que aplico em meus projetos pessoais e profissionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tecnologias e Ferramentas Principais
+
+- **Linguagens Mobile:**  
+  - Kotlin (sólido)
+  - Java (sólido)
+
+- **Frameworks e Ferramentas Mobile:**  
+  - Android SDK (sólido)
+  - Jetpack Compose (sólido)
+
+- **Linguagens de Programação Geral:**  
+  - C (sólido)
+  - Python
+
+- **Back-end e Banco de Dados:**  
+  - Java Spring Boot
+  - SQL (sólido)
+  - PostgreSQL
+  - MySQL
+
+- **Front-end Web:**  
+  - HTML5
+  - CSS3
+  - JavaScript
+  - Bootstrap
+
+- **Controle de Versão:**  
+  - Git
+  - GitHub
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRochaDS&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
+
+
+---
+
