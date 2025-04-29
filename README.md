@@ -9,20 +9,20 @@ Tenho conhecimentos em diversas linguagens e tecnologias, que aplico em meus pro
 ## Tecnologias e Ferramentas Principais
 
 - **Linguagens Mobile:**  
-  - Kotlin (sólido)
-  - Java (sólido)
+  - Kotlin
+  - Java
 
 - **Frameworks e Ferramentas Mobile:**  
-  - Android SDK (sólido)
-  - Jetpack Compose (sólido)
+  - Android SDK
+  - Jetpack Compose
 
 - **Linguagens de Programação Geral:**  
-  - C (sólido)
+  - C 
   - Python
 
 - **Back-end e Banco de Dados:**  
   - Java Spring Boot
-  - SQL (sólido)
+  - SQL 
   - PostgreSQL
   - MySQL
 
